@@ -32,6 +32,9 @@ setup(
         'q4_sub2 = kratos_ankit.q4_sub2:main',
         'q5_action_server = kratos_ankit.q5_action_server:main',
         'q5_action_client = kratos_ankit.q5_action_client:main',
+        'q6_pub = kratos_ankit.q6_pub:main',
+        'q6_sub = kratos_ankit.q6_sub:main',
+
 
     ],
 },
